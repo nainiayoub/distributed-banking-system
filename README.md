@@ -9,6 +9,7 @@ A distributed banking system that consists of two parts: one for the client and 
 I have started the RMI Registry within the server JVM, via the LocateRegistry.createRegistry() API (default port: 1099). 
 
     .
+    ├── ...
     ├── RMISERVER
     |   ├── src                    
     |   │   └── ServeurRMI.java         
