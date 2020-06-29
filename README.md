@@ -6,7 +6,8 @@ A distributed banking system that consists of two parts: one for the client and 
 * Remote objects can be listed in the RMI Registry.
 * Clients can get a reference to the remote object by querying the Registry. 
 * After that, the client can call methods on the remote objects. <br/>   
-I have started the RMI Registry within the server JVM, via the LocateRegistry.createRegistry() API (default port: 1099). <br/> 
+I have started the RMI Registry within the server JVM, via the LocateRegistry.createRegistry() API (default port: 1099). 
+
     .
     ├── RMISERVER
     |   ├── src                    
