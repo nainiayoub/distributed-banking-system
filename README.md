@@ -37,5 +37,5 @@ I have started the RMI Registry within the server JVM, via the `LocateRegistry.c
 
 # More Info
 Feel free to check out these ressources (in french)
-* :point_right: [Project PPT presentation](https://www.slideshare.net/AyoubNAINIA/rmi-remote-method-invocation-en-java)
-* :point-right: [RMI principles](https://www.slideshare.net/AyoubNAINIA/rmi-byayoubnainia)
+* :point_right: [PPT project presentation](https://www.slideshare.net/AyoubNAINIA/rmi-remote-method-invocation-en-java)
+* :point_right: [RMI principles](https://www.slideshare.net/AyoubNAINIA/rmi-byayoubnainia)
