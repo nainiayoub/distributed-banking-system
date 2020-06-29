@@ -10,6 +10,6 @@ I have started the RMI Registry within the server JVM, via the LocateRegistry.cr
     .
     ├── RMISERVER
     |   ├── src                    
-    |   │   ├── ServeurRMI.java         
-       
-
+    |   │   └── ServeurRMI.java         
+    |   └── ...      
+    └── ...
