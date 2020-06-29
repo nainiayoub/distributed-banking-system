@@ -1,5 +1,6 @@
 # distributed-banking-system
-A distributed banking system that consists of two parts: one for the client and another for the server.
+A distributed banking system that consists of two parts: one for the client and another for the server.<br/>
+Check out __More info__ for french ressources and project presentation :point_down: 
 # RMI architecture
 The remote method invocation goes through a `STUB` on the client side and a so called `SKELETON` on the server side.
 ### STUB 
@@ -34,4 +35,7 @@ I have started the RMI Registry within the server JVM, via the `LocateRegistry.c
 * Clients can get a reference to the `remote object` by querying the Registry. 
 * After that, the client can call methods on the remote objects. <br/>   
 
-
+# More Info
+Feel free to check out these ressources (in french)
+* :point_right: [Project PPT presentation](https://www.slideshare.net/AyoubNAINIA/rmi-remote-method-invocation-en-java)
+* :point-right: [RMI principles](https://www.slideshare.net/AyoubNAINIA/rmi-byayoubnainia)
