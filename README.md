@@ -35,6 +35,13 @@ I have started the RMI Registry within the server JVM, via the `LocateRegistry.c
 * Clients can get a reference to the `remote object` by querying the Registry. 
 * After that, the client can call methods on the remote objects. <br/>   
 
+# Establishing connection with Telnet
+From the client machine
+1. Activate Telnet protocol.
+2. Find out the ip address of the server.
+3. Type `Telnet <IP Address> <port number>`
+__Note:__ Do not include the <> when entering the IP Address and the Port Number.
+
 # More Info
 Feel free to check out these ressources (in french)
 * :point_right: [PPT project presentation](https://www.slideshare.net/AyoubNAINIA/rmi-remote-method-invocation-en-java)
