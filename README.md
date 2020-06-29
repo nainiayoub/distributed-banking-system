@@ -28,7 +28,8 @@ When a skeleton receives an incoming method invocation it does the following:
     └── ...
 ```
 # RMI registry
-I have started the RMI Registry within the server JVM, via the `LocateRegistry.createRegistry()` API (default port: 1099). 
+I have started the RMI Registry within the server JVM, via the `LocateRegistry.createRegistry()` API.<br/>
+:point_right: (Default port: 1099) 
 * Remote objects can be listed in the `RMI Registry`.
 * Clients can get a reference to the `remote object` by querying the Registry. 
 * After that, the client can call methods on the remote objects. <br/>   
