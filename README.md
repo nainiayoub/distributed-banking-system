@@ -43,5 +43,3 @@ From the client machine
 __Note:__ Do not include the <> when entering the IP Address and the Port Number.
 
 # More Info
-Feel free to check out these ressources (in french)
-* :point_right: [PPT project presentation](https://www.slideshare.net/AyoubNAINIA/rmi-remote-method-invocation-en-java)
